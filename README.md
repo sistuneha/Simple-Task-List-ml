@@ -1,6 +1,6 @@
 # -Simple-Task-List-
 ## Overview
-#### The Intelligent Task Management App is a Python-based application designed to streamline your productivity by providing features for adding, removing, listing, prioritizing tasks, and receiving recommendations based on task descriptions. This app leverages machine learning to offer intelligent task suggestions and prioritize your tasks effectively.
+#### The Intelligent Task Management application is a Python-based application designed to streamline your productivity by providing features for adding, removing, listing, prioritizing tasks, and receiving recommendations based on task descriptions. This application leverages machine learning to offer intelligent task suggestions and prioritize your tasks effectively.
 
 ## Features
 #### Add Tasks: Easily add new tasks with descriptions.
